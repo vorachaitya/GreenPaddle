@@ -1,26 +1,10 @@
 # GreenPaddle
 
-## Team name: Mighty Developers
-
-## Team members
-
-- Harshil Shah - vharshilshah19052002@gmail.com [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/harshil-shah-6776a221b)
-- Chaitya Vora - chaityavora02@gmail.com [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/chaitya-vora-90693b202)
-- Jinay Mehta - mehtajinay151@gmail.com [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jinay-mehta-584590216)
-- Abhishek Patingrao -itsabhi.rao@gmail.com [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/abhishekpatingrao/)
-
-## Mentors
-
-- Vaishnavi Shah
-- Siddharth Shah
-- Atharva Alshi
-
 ## Description
 
 **greenPaddle** is basically a cycle renting website. It also contains places to explore while cycling, cycling accessories which you can buy, notify about different cycling competions, provide safer cycling routes. It helps in keeping enviornment green.
 
-- [Github repo link](https://github.com/harshilshah99/greenPaddle.git)
-- [Drive link](https://drive.google.com/drive/folders/1K0E1go9V3sBLNMMyghJflSrspOY1ZSlf?usp=sharing)
+- [Github repo link](https://github.com/vorachaitya/GreenPaddle.git)
 - [Website link](https://reverent-yalow-4ee88e.netlify.app)
 
 ## Technology Stack
